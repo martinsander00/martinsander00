@@ -2,10 +2,26 @@
 
 ## I'm a Student and Developer!
 
-
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Learn more about web3
+- 💻 Front End Developer
+- 🎯 I’m currently learning Solitiy
+- 🥅 2022 Goals: Keep lerning more about web3
 - 😻 Check out the NFT collection I designed and created the website for: [PiratesMeta](https://opensea.io/collection/pirates-of-the-metaverse-by-drip-studios)
+
+
+### Connect with me:
+
+
+
+&nbsp;&nbsp;
+[![twitter](./img/twitter-light.svg)](https://twitter.com/Morton_BS#gh-light-mode-only)
+[![twitter](./img/twitter-dark.svg)](https://twitter.com/Morton_BS#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![linkedin](./img/linkedin-light.svg)](https://linkedin.com/in/msandercr#gh-light-mode-only)
+[![linkedin](./img/linkedin-dark.svg)](https://linkedin.com/in/msandercr00#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![instagram](./img/instagram-light.svg)](https://instagram.com/martinsander00#gh-light-mode-only)
+[![instagram](./img/instagram-dark.svg)](https://instagram.com/martinsander00#gh-dark-mode-only)
+
 
 
 ### Languages and Tools:
