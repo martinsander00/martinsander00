@@ -13,14 +13,14 @@
 
 
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/Morton_BS#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/Morton_BS#gh-dark-mode-only)
+[![twitter](./img/twitter-light.svg)](https://twitter.com/Morton_BS#gh-light-mode-only)
+[![twitter](./img/twitter-dark.svg)](https://twitter.com/Morton_BS#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/msandercr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/msandercr00#gh-dark-mode-only)
+[![linkedin](./img/linkedin-light.svg)](https://linkedin.com/in/msandercr#gh-light-mode-only)
+[![linkedin](./img/linkedin-dark.svg)](https://linkedin.com/in/msandercr00#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/martinsander00#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/martinsander00#gh-dark-mode-only)
+[![instagram](./img/instagram-light.svg)](https://instagram.com/martinsander00#gh-light-mode-only)
+[![instagram](./img/instagram-dark.svg)](https://instagram.com/martinsander00#gh-dark-mode-only)
 
 
 
