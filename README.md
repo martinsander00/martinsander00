@@ -5,7 +5,7 @@
 - 💻 Front End Developer
 - 🎯 I’m currently learning Solidity
 - 🥅 2022 Goals: Keep lerning more about web3
-- 😻 Check out the NFT collection I designed and created the website for: [PiratesMeta](https://opensea.io/collection/pirates-of-the-metaverse-by-drip-studios)
+- 🏴‍☠️ Check out the NFT collection I designed and created the website for: [PiratesMeta](https://opensea.io/collection/pirates-of-the-metaverse-by-drip-studios)
 
 
 ### Connect with me:
