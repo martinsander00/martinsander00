@@ -9,8 +9,8 @@
 
 ### Connect with me:
 
-[![linkedin](./img/linkedin-light.svg)](https://linkedin.com/in/msandercr#gh-dark-mode-only)
-[![linkedin](./img/linkedin-dark.svg)](https://linkedin.com/in/msandercr00#gh-light-mode-only)
+[![linkedin](./img/linkedin-dark.svg)](https://linkedin.com/in/msandercr#gh-dark-mode-only)
+[![linkedin](./img/linkedin-light.svg)](https://linkedin.com/in/msandercr00#gh-light-mode-only)
 
 
 
