@@ -9,17 +9,9 @@
 
 ### Connect with me:
 
-
-
-
-[![twitter](./img/twitter-light.svg)](https://twitter.com/Morton_BS#gh-dark-mode-only)
-[![twitter](./img/twitter-dark.svg)](https://twitter.com/Morton_BS#gh-light-mode-only)
-&nbsp;&nbsp;
 [![linkedin](./img/linkedin-light.svg)](https://linkedin.com/in/msandercr#gh-dark-mode-only)
 [![linkedin](./img/linkedin-dark.svg)](https://linkedin.com/in/msandercr00#gh-light-mode-only)
-&nbsp;&nbsp;
-[![instagram](./img/instagram-light.svg)](https://instagram.com/martinsander00#gh-dark-mode-only)
-[![instagram](./img/instagram-dark.svg)](https://instagram.com/martinsander00#gh-light-mode-only)
+
 
 
 
