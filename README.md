@@ -3,7 +3,7 @@
 ## I'm a Student and Developer!
 
 - 💻 Full Stack Developer
-- 🎯 I’m currently learning Solidity
+- 🎯 Currently learning Solidity and web3 security
 - ✏️ UPenn Student
 
 
