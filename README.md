@@ -1,4 +1,4 @@
-# Martin Sander - [linkedin]
+# Martin Sander
 
 ## Student and Developer
 - ✏️ UPenn Student
