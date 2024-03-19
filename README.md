@@ -1,4 +1,4 @@
-# Hi there, I'm Martin - aka [martinsander00][linkedin] 👋 
+# I'm Martin - [linkedin]
 
 ## I'm a Student and Developer
 - ✏️ UPenn Student
