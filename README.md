@@ -1,9 +1,6 @@
 # Hi there, I'm Martin - aka [martinsander00][linkedin] 👋 
 
-## I'm a Student and Developer!
-
-- 💻 Full Stack Developer
-- 🎯 Currently learning Solidity and web3 security
+## I'm a Student and Developer
 - ✏️ UPenn Student
 
 
