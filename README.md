@@ -1,6 +1,6 @@
-# I'm Martin - [linkedin]
+# Martin Sander - [linkedin]
 
-## I'm a Student and Developer
+## Student and Developer
 - ✏️ UPenn Student
 
 
